@@ -6,7 +6,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>Nextro Able | Welcome To Angular 8+ Bootstrap Design Admin Template </title>
+        <title>Flat Able | Welcome To Angular 8+ Bootstrap Design Admin Template </title>
         <!-- HTML5 Shim and Respond.js IE11 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 11]>
@@ -67,9 +67,7 @@ const routes: Routes = [
 <app-navigation></app-navigation> <!-- for side nav - navigation.component.html -->
 <app-nav-bar></app-nav-bar> <!-- for header - nav-bar.component.html -->
 <div class="pcoded-main-container">
-  <div class="pcoded-wrapper">
     <div class="pcoded-content">
-      <div class="pcoded-inner-content">
         <app-breadcrumb></app-breadcrumb> <!-- for common breadcrumb - breadcrumb.component.html -->
         <div class="main-body">
           <div class="page-wrapper">
@@ -78,9 +76,7 @@ const routes: Routes = [
             </router-outlet>
           </div>
         </div>
-      </div>
     </div>
-  </div>
 </div>
 ```
 

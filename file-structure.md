@@ -1,9 +1,9 @@
 # File Structure
 
-Under the `nextro/template/skeleton`folder you will find the project folder structure.
+Under the `flat-able/template/skeleton`folder you will find the project folder structure.
 
 ```text
-nextro/template/skeleton/
+flat-able/template/skeleton/
 ├── e2e/..
 ├── node_modules/..
 ├── src/
@@ -12,7 +12,6 @@ nextro/template/skeleton/
 │   │   │   ├── app/
 │   │   │   │   ├── gallery/..
 │   │   │   │   ├── task/..
-│   │   │   │   ├── todo/..
 │   │   │   ├── dashboard/
 │   │   │   │   ├── dash-analytics/..
 │   │   │   │   ├── dash-crm/..
