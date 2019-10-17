@@ -1,9 +1,9 @@
 # File Structure
 
-Under the `flat-able/template/skeleton`folder you will find the project folder structure.
+Under the `pangong/template/skeleton`folder you will find the project folder structure.
 
 ```text
-flat-able/template/skeleton/
+pangong/template/skeleton/
 ├── e2e/..
 ├── node_modules/..
 ├── src/

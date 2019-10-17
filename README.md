@@ -4,17 +4,16 @@ description: Flat Able - Angular Admin Template Documentation
 
 # Introduction
 
-**Flat Able** admin template is **Angular 8+ & Bootstrap 4+ Admin Template** which comes with variety feature. Flat Able is not an ordinary admin panel template - It has lots of pre-define functionality which completely ready for any complex projects!!
+**Pangong** admin template is **Angular 8+ & Bootstrap 4+ Admin Template** which comes with variety feature. Pangong is not an ordinary admin panel template - It has lots of pre-define functionality which completely ready for any complex projects!!
 
-**Author** : Phoenixcoded
+**Author** : Hencework
 
 ## Features
 
 * Fully Responsive Layout 
-* 5 Dashboard, 380+ Widget Cards
+* 3 Dashboard, 250+ Widget Cards
 * SASS Powered
-* 200+ Pages
-* 7+ Workable Application
+* 150+ Pages
 * Live Menu Customize
 * 6 months of free support included
 * Easy to Build and Setup
@@ -22,7 +21,7 @@ description: Flat Able - Angular Admin Template Documentation
 
 ## Specification
 
-* [Angular CLI](https://cli.angular.io/) 8.3.5
+* [Angular CLI](https://cli.angular.io/) 8.3.9
 * Latest [Bootstrap](https://getbootstrap.com/) 4 Stable \(v4.3.1\)
 * [SASS ](https://sass-lang.com)Powered
 * [NodeJs](https://nodejs.org/en/) \(v12.5.x\)

@@ -11,14 +11,14 @@ They are configured and hidden so that you can focus on the code.
 
 1. First of all it's required to Install [Node](https://nodejs.org/en/) and npm.
 2. Update latest [angular-cli](https://cli.angular.io/) global package to Angular 8+ with cli 8.x.x
-3. Unzip **flat-able.zip** file, you will find the `flat-able/template/skeleton/`project folder. 
+3. Unzip **pangong.zip** file, you will find the `pangong/template/skeleton/`project folder. 
 4. Open your favorite console/terminal and navigate to the `skeleton/`folder and **Install packages**
 
    ```text
    npm install
    ```
 
-5. _\*\*_To run project locally: Below command will run the app in development mode. Open [http://localhost:4200](http://localhost:4200) to view it in the browser.
+5. To run project locally: Below command will run the app in development mode. Open [http://localhost:4200](http://localhost:4200) to view it in the browser.
 
    ```text
    ng serve -o

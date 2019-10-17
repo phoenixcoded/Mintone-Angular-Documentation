@@ -5,28 +5,35 @@
 ```markup
 <!doctype html>
 <html lang="en">
-    <head>
-        <title>Flat Able | Welcome To Angular 8+ Bootstrap Design Admin Template </title>
-        <!-- HTML5 Shim and Respond.js IE11 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 11]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Pangong - Angular 8+ Admin Template</title>
+  <base href="/">
 
-        <base href="/">
+  <!--IE11-->
+  <!-- HTML5 Shim and Respond.js IE11 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 11]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
 
-        <!-- Meta Content-->
+  <!-- Meta -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0, minimal-ui">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="description" content="" />
+  <meta name="keywords" content="">
+  <meta name="author" content="Amit Gorasiya" />
 
-        <link rel="icon" type="image/x-icon" href="favicon.ico">
-
-        <!-- font style -->
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
-    </head>
-    <body>
-      <app-root></app-root> <!-- app.component.html -->
-    </body>
+  <!-- Favicon icon -->
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>
+  <app-root></app-root>
+</body>
 </html>
+
 ```
 
 ## **../src/app/app.component.html**
