@@ -1,5 +1,5 @@
 ---
-description: Flat Able - Angular Admin Template Documentation
+description: Pangong - Angular Admin Template Documentation
 ---
 
 # Introduction
