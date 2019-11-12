@@ -13,33 +13,24 @@ You can edit this file at **`[ ../src/app/app-config.ts ]`**
 {% tabs %}
 {% tab title="Default / Vertical" %}
 * layout: `vertical`
-* subLayout: ' '
 * collapseMenu: `false`
-* layoutType: `menu-dark`
+* layoutType: `menu-light`
 * headerBackColor: `default-header`
-* navBrandColor: `brand-default`
-* rtlLayout: `false`
+* fullWidthLayout: `false`
 * navFixedLayout: `true`
 * headerFixedLayout: `true`
-* boxLayout: `false`
 {% endtab %}
 
 {% tab title="Horizontal" %}
 * layout: `horizontal`
-* navFixedLayout: `false`
-* headerFixedLayout: `false`
+* navFixedLayout: `true`
+* headerFixedLayout: `true`
 {% endtab %}
 
 {% tab title="Light Layout" %}
 * layout: `vertical/horizontal`
 * layoutType: `menu-light`
 * headerBackColor: `header-default`
-{% endtab %}
-
-{% tab title="Dark Layout" %}
-* layout: `vertical/horizontal`
-* layoutType: `dark`
-* headerBackColor: `header-dark`
 {% endtab %}
 {% endtabs %}
 
@@ -69,34 +60,9 @@ You can edit this file at **`[ ../src/app/app-config.ts ]`**
 * collapseMenu: `true`
 {% endtab %}
 
-{% tab title="RTL Layout" %}
+{% tab title="Menu Dark Layout" %}
 * layout: `vertical`
-* rtlLayout: `true`
-{% endtab %}
-
-{% tab title="Box Layout" %}
-* layout: `vertical`
-* headerFixedLayout: `false`
-* boxLayout: `true`
-{% endtab %}
-{% endtabs %}
-
-## Horizontal Layouts
-
-{% tabs %}
-{% tab title="Horizontal-2" %}
-* layout: `horizontal`
-* subLayout: `horizontal-2`
-* navFixedLayout: `false`
-* headerFixedLayout: `false`
-{% endtab %}
-
-{% tab title="Horizontal RTL" %}
-* layout: `horizontal`
-* subLayout: `horizontal-2`
-* navFixedLayout: `false`
-* headerFixedLayout: `false`
-* rtlLayout: `true`
+* layoutType: `menu-dark`
 {% endtab %}
 {% endtabs %}
 
