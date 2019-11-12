@@ -1,19 +1,19 @@
 ---
-description: Pangong - Angular Admin Template Documentation
+description: Mintone - Angular Admin Template Documentation
 ---
 
 # Introduction
 
-**Pangong** admin template is **Angular 8+ & Bootstrap 4+ Admin Template** which comes with variety feature. Pangong is not an ordinary admin panel template - It has lots of pre-define functionality which completely ready for any complex projects!!
+**Mintone** admin template is **Angular 8+ & Bootstrap 4+ Admin Template** which comes with variety feature. Mintone is not an ordinary admin panel template - It has lots of pre-define functionality which completely ready for any complex projects!!
 
-**Author** : Hencework
+**Author** : Phoenixcoded
 
 ## Features
 
 * Fully Responsive Layout 
-* 3 Dashboard, 250+ Widget Cards
+* 4+ Dashboard, 150+ Widget Cards
 * SASS Powered
-* 150+ Pages
+* 100+ Pages
 * Live Menu Customize
 * 6 months of free support included
 * Easy to Build and Setup
@@ -21,7 +21,7 @@ description: Pangong - Angular Admin Template Documentation
 
 ## Specification
 
-* [Angular CLI](https://cli.angular.io/) 8.3.9
+* [Angular CLI](https://cli.angular.io/) **8.3.9**
 * Latest [Bootstrap](https://getbootstrap.com/) 4 Stable \(v4.3.1\)
 * [SASS ](https://sass-lang.com)Powered
 * [NodeJs](https://nodejs.org/en/) \(v12.5.x\)

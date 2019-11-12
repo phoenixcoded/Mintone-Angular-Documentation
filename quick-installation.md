@@ -11,7 +11,7 @@ They are configured and hidden so that you can focus on the code.
 
 1. First of all it's required to Install [Node](https://nodejs.org/en/) and npm.
 2. Update latest [angular-cli](https://cli.angular.io/) global package to Angular 8+ with cli 8.x.x
-3. Unzip **pangong.zip** file, you will find the `pangong/template/skeleton/`project folder. 
+3. Unzip **mintone.zip** file, you will find the `mintone/template/skeleton/`project folder. 
 4. Open your favorite console/terminal and navigate to the `skeleton/`folder and **Install packages**
 
    ```text

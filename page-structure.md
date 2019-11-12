@@ -7,7 +7,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Pangong - Angular 8+ Admin Template</title>
+  <title>Mintone - Angular 8+ Admin Template</title>
   <base href="/">
 
   <!--IE11-->
@@ -24,7 +24,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="description" content="" />
   <meta name="keywords" content="">
-  <meta name="author" content="Amit Gorasiya" />
+  <meta name="author" content="Phoenixcoded" />
 
   <!-- Favicon icon -->
   <link rel="icon" type="image/x-icon" href="favicon.ico">
@@ -33,7 +33,6 @@
   <app-root></app-root>
 </body>
 </html>
-
 ```
 
 ## **../src/app/app.component.html**
@@ -75,7 +74,6 @@ const routes: Routes = [
 <app-nav-bar></app-nav-bar> <!-- for header - nav-bar.component.html -->
 <div class="pcoded-main-container">
     <div class="pcoded-content">
-        <app-breadcrumb></app-breadcrumb> <!-- for common breadcrumb - breadcrumb.component.html -->
         <div class="main-body">
           <div class="page-wrapper">
             <router-outlet>

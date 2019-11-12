@@ -1,9 +1,9 @@
 # File Structure
 
-Under the `pangong/template/skeleton`folder you will find the project folder structure.
+Under the `mintone/template/skeleton`folder you will find the project folder structure.
 
 ```text
-pangong/template/skeleton/
+mintone/template/skeleton/
 ├── e2e/..
 ├── node_modules/..
 ├── src/
@@ -14,7 +14,7 @@ pangong/template/skeleton/
 │   │   │   │   ├── task/..
 │   │   │   ├── dashboard/
 │   │   │   │   ├── dash-analytics/..
-│   │   │   │   ├── dash-crm/..
+│   │   │   │   ├── dash-shop/..
 │   │   │   │   ├── ...- More
 │   │   │   ├── extension/
 │   │   │   │   ├── editor/..
