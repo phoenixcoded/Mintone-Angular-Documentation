@@ -8,15 +8,15 @@ description: Menu/Layout Customize Options
 You can edit this file at **`[ ../src/app/app-config.ts ]`**
 {% endhint %}
 
-| **Option** | **Default** | **Data Type** | **Description** |
-| :--- | :--- | :--- | :--- |
-| **layout** | vertical | String | `vertical`, `horizontal` |
-| **collapseMenu** | false | Boolean | `true`, `false` |
-| **layoutType** | menu-dark | String | `menu-dark`, `menu-light`, `dark` |
-| **headerBackColor** | default-header | String | `default-header`, `header-blue`, `header-red`, `header-purple`, `header-info`, `header-green`, `header-dark` |
-| **fullWidthLayout** | false | Boolean | `true`, `false` |
-| **navFixedLayout** | true | Boolean | `true`, `false` |
-| **headerFixedLayout** | true | Boolean | `true`, `false` |
+| **Option**            | **Default**    | **Data Type** | **Description**                                                                                              |
+| --------------------- | -------------- | ------------- | ------------------------------------------------------------------------------------------------------------ |
+| **layout**            | vertical       | String        | `vertical`, `horizontal`                                                                                     |
+| **collapseMenu**      | false          | Boolean       | `true`, `false`                                                                                              |
+| **layoutType**        | menu-dark      | String        | `menu-dark`, `menu-light`, `dark`                                                                            |
+| **headerBackColor**   | default-header | String        | `default-header`, `header-blue`, `header-red`, `header-purple`, `header-info`, `header-green`, `header-dark` |
+| **fullWidthLayout**   | false          | Boolean       | `true`, `false`                                                                                              |
+| **navFixedLayout**    | true           | Boolean       | `true`, `false`                                                                                              |
+| **headerFixedLayout** | true           | Boolean       | `true`, `false`                                                                                              |
 
 {% tabs %}
 {% tab title="app-config.ts" %}
@@ -32,8 +32,6 @@ export class NextConfig {
     headerFixedLayout: true
   };
 }
-
 ```
 {% endtab %}
 {% endtabs %}
-
